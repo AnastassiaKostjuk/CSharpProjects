@@ -9,7 +9,6 @@ namespace CSharpProjects.Osa4
 {
     internal class FunktsioonidOsa4
     {
-
         public static void FailiKirjutamine()
         {
             string path1 = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\..\Kuud.txt"); //@"..\..\..\Kuud.txt"
